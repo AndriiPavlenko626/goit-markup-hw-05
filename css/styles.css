@@ -660,7 +660,7 @@ padding: 120px 0;
  }
  .modal-container{
    position: relative;
-   margin-bottom: 8px;
+   margin-bottom: 16px;
  }
  .modal-icon{
    position: absolute;
@@ -790,6 +790,7 @@ padding: 120px 0;
  }
  
  .button-modal-overlay {
+   border: none;
    display: block;
    margin: 0 auto;
    border-radius: 4px;
